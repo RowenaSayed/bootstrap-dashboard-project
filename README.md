@@ -15,4 +15,12 @@ The project is lightweight, mobile-friendly, and easy to deploy.
 
 ---
 
-## 📂 Project Structure
+## Installation
+Clone the repository and open the `index.html` file in your browser:
+
+```bash
+git clone https://github.com/RowenaSayed/bootstrap-dashboard-project.git
+cd bootstrap-dashboard-project
+git checkout Development
+open index.html
+
